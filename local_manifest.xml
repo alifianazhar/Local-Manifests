@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/riva" name="SunnyRaj84348/android_device_xiaomi_riva.git" remote="github" revision="lineage-17.1" />
+ <project path="vendor/xiaomi" name="SunnyRaj84348/android_vendor_xiaomi.git" remote="github" revision="lineage-17.1" />
+ <project path="kernel/xiaomi/msm8917" name="SunnyRaj84348/android_kernel_xiaomi_msm8917.git" remote="github" revision="lineage-17.1" />
+ 
+</manifest>
